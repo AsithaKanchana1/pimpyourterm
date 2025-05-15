@@ -9,8 +9,8 @@ show note from youtube video ->
 Go to Dracula Theam Webnsite And Follow The Instructions to match the terminal 
 
 <div style="display: flex; gap: 10px; flex-wrap: wrap;">
-  <img src="img/theam-dracula.png" alt="draculaIMG1" width="150"/>
-  <img src="img/theam-dracula2.png" alt="draculaIMG2" width="150"/>
+  <img src="img/theam-dracula.png" alt="draculaIMG1" width="500"/>
+  <img src="img/theam-dracula2.png" alt="draculaIMG2" width="500"/>
   <!-- add more images as needed -->
 </div>
 

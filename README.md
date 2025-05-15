@@ -1,6 +1,8 @@
 # Pimp Your Terminal
 
-show note from youtube video ->
+[![Upgrade Your Terminal](https://img.youtube.com/vi/80PHRWH84Tc/maxresdefault.jpg)](https://youtu.be/80PHRWH84Tc)
+
+## Show note from youtube video
 
 ![term.jpg](/img/term.jpg)
 

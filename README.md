@@ -79,6 +79,7 @@ https://github.com/ohmyzsh/ohmyzsh/wiki/Plugins
 # Download Nerd Fonts 
 [Nerd Font Website](https://www.nerdfonts.com/)
 <br>
+
 [Nerd Font Git-Hub](https://github.com/ryanoasis/nerd-fonts/tree/master/patched-fonts/FiraMono)
 
 # Download and install firamono for linux
@@ -98,3 +99,4 @@ ZSH_THEME="powerlevel10k/powerlevel10k"
 ```bash
 POWERLEVEL9K_MODE="nerdfont-complete"
 ```
+@ Documentation Updated By :[Asitha Kanchana Palliyaguru](https://github.com/AsithaKanchana1) 
